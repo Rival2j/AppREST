@@ -1,0 +1,19 @@
+{   
+    "IdInstitutoOK" : "1", 
+    "IdInstitutoBK" : "18DIT0002Z", 
+    "DesInstituto" : "Instituto Tecnológico de Tepic", 
+    "Alias" : "ITT", 
+    "Matriz" : "S", 
+    "Giro" : "EDUCACION",
+    "IdInstitutoSupOK" : "",
+    "detail_row" : { 
+        "Activo" : "S", 
+        "Borrado" : "N", 
+        "detail_row_reg" : [ 
+            { 
+                "FechaReg" : ISODate("2022-06-06T22:10:05.628+0000"), 
+                "UsuarioReg" : "FIBARRAC" 
+            } 
+        ] 
+    } 
+}
